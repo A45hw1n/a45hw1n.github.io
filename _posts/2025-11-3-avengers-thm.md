@@ -1,6 +1,6 @@
 ---
 title: "Avengers TryHackMe" 
-date: 2025-11-2 2:50:00 0000+
+date: 2025-11-3 2:50:00 0000+
 tags: [WriteUp, Avengers, THM,  Enumeration, SQL Injection, SQLmap, FTP, password reuse, Inodes, Linux]
 categories: [WriteUps, TryHackMe]
 image:
