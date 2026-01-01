@@ -9,29 +9,14 @@ Hey there 👋 I'm **Aashwin Sharma**, a passionate and curious individual deepl
 
 ---
 
-## 🛡️ Cybersecurity Enthusiast
+## ✅ Certifications
 
-My journey into cybersecurity began with a fascination for how systems break—and more importantly, how to protect them. I’ve been actively involved in:
-
-- ✅ **Active Directory Attacks & Defense**
-- ✅ **Threat Intelligence & Malware Analysis**
-- ✅ **IDS Systems & Incident Response**
-- ✅ Practicing on platforms like **Hack The Box** and **TryHackMe**
-
-Certified with the **Certified Red Team Professional (CRTP)** by Altered Security, I’ve developed deep insights into adversarial thinking and red teaming strategies.
+- [Certified Red Team Professional (CRTP)](https://www.credential.net/5bd9d78e-67f1-43be-a759-784f96330e1b#acc.tu9Cze4f)
 
 ---
 
-## 🧠 Always Learning
+## Follow me
 
-I believe in continuous learning and sharing knowledge. My blog is a space where I break down complex concepts, document my projects, and write about:
+- [HackTheBox](https://app.hackthebox.com/users/886877)
+- [TryHackMe](https://tryhackme.com/p/a45hw1n)
 
-- Cybersecurity research and walkthroughs 🔐  
-- Notes from real-world experience and training 📘  
-- My journey, wins, failures, and everything in between
-
----
-
-## 🧩 Beyond Tech
-
-Outside of the digital realm, I enjoy reading, exploring philosophy, and keeping up with the evolving landscape of security and technology. I'm also a big believer in open-source collaboration and ethical hacking.
