@@ -15,7 +15,7 @@ Hey there 👋 I'm **Aashwin Sharma**, a passionate and curious individual deepl
 
 ---
 
-## Follow me
+## 🔗 Follow me
 
 - [HackTheBox](https://app.hackthebox.com/users/886877)
 - [TryHackMe](https://tryhackme.com/p/A45hw1n)
