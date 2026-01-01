@@ -3,9 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About Me
-
-Hey there 👋 I'm **Aashwin Sharma**, a passionate and curious individual deeply immersed in the world of **Cybersecurity**, **Tech Research**, and **Red Teaming**.
+Hey there  I'm Aashwin , a passionate and curious individual deeply immersed in the world of Cybersecurity, Tech Research, and Red Teaming.
 
 ---
 
