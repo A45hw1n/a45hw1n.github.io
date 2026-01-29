@@ -1,7 +1,7 @@
 ---
 title: "Administrator HackTheBox" 
 date: 2026-1-2 23:00:00 0000+
-tags: [WriteUp, Administrator, HTB, Enumeration, Active Directory, FTP, targeted kerberoasting, Kerberoasting, faketime, mimikatz, Rubeus, DCSync, GenericAll, GenericWrite, Hash Cracking, Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Psexec,ForceChangePassword,PTH, powerview, powerup, Windows]
+tags: [WriteUp, Administrator, HTB, Enumeration, Active Directory, FTP, targeted kerberoasting, Kerberoasting, faketime, mimikatz, Rubeus, DCSync, GenericAll, GenericWrite, Hash Cracking, Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Psexec,ForceChangePassword,PTH, powerview, Powerup, Windows]
 categories: [WriteUps, HackTheBox]
 image:          
   path: /assets/images/Administrator_HTB/preview_administrator.png
