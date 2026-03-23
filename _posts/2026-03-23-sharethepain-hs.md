@@ -1,7 +1,7 @@
 ---
 title: "ShareThePain HackSmarter" 
 date: 2026-3-23 23:00:00 0000+
-tags: [WriteUp, ShareThePain, HS, Enumeration, Active Directory, NTLM Theft, MSSQL, Pivot, Ligolo, Hash Cracking, Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Windows]
+tags: [WriteUp, ShareThePain, HS, Enumeration, Active Directory, NTLM Theft, Responder, GenericAll, Hash Cracking ,MSSQL, Pivot, Ligolo, Hash Cracking, Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Windows]
 categories: [WriteUps, HackSmarter]
 image:
   path: /assets/images/ShareThePain_HS/image.png
