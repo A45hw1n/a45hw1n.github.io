@@ -188,7 +188,7 @@ Now claiming the `user.txt` from user’s desktop
 
 ## Privilege Escalation
 
-### Shell as Administrator
+### Shell as A.Flatch
 
 Looking at the privileges as `H.grangon` we have the `SeBackupPrivilege`.
 
