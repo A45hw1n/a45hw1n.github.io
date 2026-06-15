@@ -1,7 +1,7 @@
 ---
 title: "BuildingMagic HackSmarter" 
 date: 2026-3-25 5:00:00 0000+
-tags: [WriteUp, BuildingMagic, HS, Enumeration, Active Directory, NTLM Theft, Responder, ForceChangePassword, Hash Cracking ,smbserver, Kerberoasting, BackupOperators,Phishsing, Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Windows]
+tags: [WriteUp, BuildingMagic, HS, Enumeration, Active Directory, NTLM Theft, Responder, ForceChangePassword, Hash Cracking ,smbserver, Kerberoasting, BackupOperators, phishing ,Lateral Movement, Bloodhound, SMB, bloodyAD, Privilege Escalation, Windows]
 categories: [WriteUps, HackSmarter]
 image:
   path: /assets/images/BuildingMagic_HS/image.png
