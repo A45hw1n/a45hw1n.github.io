@@ -1,7 +1,7 @@
 ---
 title: "Intelligence HackTheBox" 
 date: 2026-6-20 3:00:00 0000+
-tags: [WriteUp, Intelligence, HTB, Enumeration, Active Directory, Lateral Movement, Bloodhound, Privilege Escalation, Hash Cracking, Powershell, bloodyAD ,Windows]
+tags: [WriteUp, Intelligence, HTB, Enumeration, Active Directory, Lateral Movement, Bloodhound, Privilege Escalation, Hash Cracking, Powershell, bloodyAD, Psexec, AllowedToDelegate, gMSA Abuse, DNS, DNS Abuse, DNS Poison, ConstrainedDelegation, python, Scripting ,SilverTicket, exiftool ,Windows]
 categories: [WriteUps,HackTheBox]
 image:
   path: /assets/images/Intelligence_HTB/image.png
