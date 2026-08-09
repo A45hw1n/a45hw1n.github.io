@@ -10,6 +10,7 @@ Hey there  I'm Aashwin , a passionate and curious individual deeply immersed in 
 ## ✅ Certifications
 
 - [Certified Red Team Professional (CRTP)](https://www.credential.net/5bd9d78e-67f1-43be-a759-784f96330e1b#acc.tu9Cze4f)
+- [Certified Red Team Operator (CRTO)](https://eu.credential.net/bc8e8a07-cc36-4cb8-9462-834d38ae29d7)
 
 ---
 
