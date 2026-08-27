@@ -1,7 +1,7 @@
 ---
 title: "Fluffy HackTheBox" 
 date: 2026-08-27 21:00:00 0000+
-tags: [WriteUp, Fluffy, HTB, Enumeration, Certipy-ad, ESC16, Active Directory, Lateral Movement, Bloodhound, Privilege Escalation, Hash Cracking, bloodyAD, CVE-2025-24071, ADCS, Windows]
+tags: [WriteUp, Fluffy, HTB, Enumeration, Certipy-ad, ESC16, Active Directory, Lateral Movement, Bloodhound, Privilege Escalation, Hash Cracking, bloodyAD, CVE-2025-24071, ADCS, CPTS, Windows]
 categories: [WriteUps,HackTheBox]
 image:
   path: /assets/images/Fluffy_HTB/preview_fluffy.png
