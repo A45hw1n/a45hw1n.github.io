@@ -222,7 +222,7 @@ Spinning up the metasploit framework.
 
 Setting all the required variables to exploit the target system.
 
-The normal payload `cmd/unix/reverse_perl` is failing in getting me a shell on the box, so I used the generic one `cmd/unix/reverse`
+The normal payload `cmd/unix/reverse_perl` is failing in getting me a shell on the box, so I used the generic one `cmd/unix/reverse` .
 
 ![image.png](/assets/images/Postman_HTB/image%2027.png)
 
