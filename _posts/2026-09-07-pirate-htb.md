@@ -1,5 +1,5 @@
 ---
-title: "Pirate HackTheBox with CobaltStike C2" 
+title: "Pirate HackTheBox with CobaltStrike C2" 
 date: 2026-09-07 6:00:00 0000+
 tags: [WriteUp, Pirate, HTB, Enumeration, Active Directory, BOF, spawnto, gMSA Abuse, SNS, ServiceNameSubsitution, Bloodhound, Ligolo, Relay, NTLM Relay, Psexec ,LFI, Password Spraying, scshell, PTH, Privilege Escalation, bloodyAD, beacon, SilverTicket ,cobaltstrike, C2, hashcat, RBCD, SMB, tunneling, port forwarding, Hyper-V, PreWindows2000, Rubeus, PetitPotam, Windows]
 categories: [WriteUps, HackTheBox]
